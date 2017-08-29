@@ -1,0 +1,7 @@
+html {
+  font-family: Helvetica;
+  font-weight: bold;
+  background-image: url(../resources/Billboard.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
